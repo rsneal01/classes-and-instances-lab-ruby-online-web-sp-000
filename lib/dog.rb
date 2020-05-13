@@ -1,5 +1,6 @@
 class Dog
 end
 
-hercules.new
-
+fido = Dog.new
+snoopy = Dog.new
+lassie = Dog.new
